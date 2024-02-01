@@ -9,11 +9,11 @@ const bookschema=new Schema({
         type:String,
         required:true,
     },
-    Price:{
+    Genre:{
         type:String,
         required:true,
     },
-    Genre:{
+    Price:{
         type:String,
         required:true,
     },
